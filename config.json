@@ -1,0 +1,7 @@
+{ "token": "",
+  "mongourl": "MongoDB URL Here",
+  "prefix": "!",
+  "everyoneMention": false,
+  "hostedBy": true,
+  "message_remove_time": 30
+}
